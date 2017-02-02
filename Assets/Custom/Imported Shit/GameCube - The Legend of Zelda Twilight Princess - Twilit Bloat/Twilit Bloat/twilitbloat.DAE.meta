@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: bf0d7570e020fb34aa6effa1aa206409
+timeCreated: 1447189470
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: VisualSceneNode
+    100004: yb_tw
+    100006: yb_tw_arm_La1
+    100008: yb_tw_arm_La2
+    100010: yb_tw_arm_La3
+    100012: yb_tw_arm_La4
+    100014: yb_tw_arm_Lb1
+    100016: yb_tw_arm_Lb2
+    100018: yb_tw_arm_Lb3
+    100020: yb_tw_arm_Lc1
+    100022: yb_tw_arm_Lc2
+    100024: yb_tw_arm_Lc3
+    100026: yb_tw_arm_Ra1
+    100028: yb_tw_arm_Ra2
+    100030: yb_tw_arm_Ra3
+    100032: yb_tw_arm_Ra4
+    100034: yb_tw_arm_Rb1
+    100036: yb_tw_arm_Rb2
+    100038: yb_tw_arm_Rb3
+    100040: yb_tw_arm_Rc1
+    100042: yb_tw_arm_Rc2
+    100044: yb_tw_arm_Rc3
+    100046: yb_tw_body1
+    100048: yb_tw_body2
+    100050: yb_tw_body3
+    100052: yb_tw_body4
+    100054: yb_tw_bust
+    100056: yb_tw_Character
+    100058: yb_tw_Character_PIVOT
+    100060: yb_tw_head
+    100062: yb_tw_jaw_L
+    100064: yb_tw_jaw_R
+    100066: yb_tw_tail1
+    100068: yb_tw_tail2
+    100070: yb_tw_tube_La1
+    100072: yb_tw_tube_La2
+    100074: yb_tw_tube_Lb1
+    100076: yb_tw_tube_Lb2
+    100078: yb_tw_tube_Lc1
+    100080: yb_tw_tube_Lc2
+    100082: yb_tw_tube_Ra1
+    100084: yb_tw_tube_Ra2
+    100086: yb_tw_tube_Rb1
+    100088: yb_tw_tube_Rb2
+    100090: yb_tw_tube_Rc1
+    100092: yb_tw_tube_Rc2
+    100094: yb_tw_wing_La
+    100096: yb_tw_wing_Lb1
+    100098: yb_tw_wing_Lb2
+    100100: yb_tw_wing_Lc1
+    100102: yb_tw_wing_Lc2
+    100104: yb_tw_wing_Ra
+    100106: yb_tw_wing_Rb1
+    100108: yb_tw_wing_Rb2
+    100110: yb_tw_wing_Rc1
+    100112: yb_tw_wing_Rc2
+    100114: yb_tw_world_root
+    400000: //RootNode
+    400002: VisualSceneNode
+    400004: yb_tw
+    400006: yb_tw_arm_La1
+    400008: yb_tw_arm_La2
+    400010: yb_tw_arm_La3
+    400012: yb_tw_arm_La4
+    400014: yb_tw_arm_Lb1
+    400016: yb_tw_arm_Lb2
+    400018: yb_tw_arm_Lb3
+    400020: yb_tw_arm_Lc1
+    400022: yb_tw_arm_Lc2
+    400024: yb_tw_arm_Lc3
+    400026: yb_tw_arm_Ra1
+    400028: yb_tw_arm_Ra2
+    400030: yb_tw_arm_Ra3
+    400032: yb_tw_arm_Ra4
+    400034: yb_tw_arm_Rb1
+    400036: yb_tw_arm_Rb2
+    400038: yb_tw_arm_Rb3
+    400040: yb_tw_arm_Rc1
+    400042: yb_tw_arm_Rc2
+    400044: yb_tw_arm_Rc3
+    400046: yb_tw_body1
+    400048: yb_tw_body2
+    400050: yb_tw_body3
+    400052: yb_tw_body4
+    400054: yb_tw_bust
+    400056: yb_tw_Character
+    400058: yb_tw_Character_PIVOT
+    400060: yb_tw_head
+    400062: yb_tw_jaw_L
+    400064: yb_tw_jaw_R
+    400066: yb_tw_tail1
+    400068: yb_tw_tail2
+    400070: yb_tw_tube_La1
+    400072: yb_tw_tube_La2
+    400074: yb_tw_tube_Lb1
+    400076: yb_tw_tube_Lb2
+    400078: yb_tw_tube_Lc1
+    400080: yb_tw_tube_Lc2
+    400082: yb_tw_tube_Ra1
+    400084: yb_tw_tube_Ra2
+    400086: yb_tw_tube_Rb1
+    400088: yb_tw_tube_Rb2
+    400090: yb_tw_tube_Rc1
+    400092: yb_tw_tube_Rc2
+    400094: yb_tw_wing_La
+    400096: yb_tw_wing_Lb1
+    400098: yb_tw_wing_Lb2
+    400100: yb_tw_wing_Lc1
+    400102: yb_tw_wing_Lc2
+    400104: yb_tw_wing_Ra
+    400106: yb_tw_wing_Rb1
+    400108: yb_tw_wing_Rb2
+    400110: yb_tw_wing_Rc1
+    400112: yb_tw_wing_Rc2
+    400114: yb_tw_world_root
+    4300000: yb_tw
+    9500000: //RootNode
+    13700000: yb_tw
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,257 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 21.11.2010 15:28:58
+
+newmtl m0
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS16.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS16.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS16.png
+
+newmtl m1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS15.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS15.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS15.png
+
+newmtl m2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS14.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS14.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS14.png
+
+newmtl m3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM13.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM13.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM13.png
+
+newmtl m4
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS12.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS12.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS12.png
+
+newmtl m5
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS11.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS11.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS11.png
+
+newmtl m6
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM10.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM10.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM10.png
+
+newmtl m7
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS09.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS09.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS09.png
+
+newmtl m8
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS08.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS08.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS08.png
+
+newmtl m9
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS07.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS07.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS07.png
+
+newmtl m10
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS06.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS06.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS06.png
+
+newmtl m11
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS05.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS05.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS05.png
+
+newmtl m12
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM04.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM04.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM04.png
+
+newmtl m13
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM03.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM03.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiMM03.png
+
+newmtl m14
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS02.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS02.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS02.png
+
+newmtl m15
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS01.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS01.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS01.png
+
+newmtl m16
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS00.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS00.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Mesa's House\InsiSS00.png

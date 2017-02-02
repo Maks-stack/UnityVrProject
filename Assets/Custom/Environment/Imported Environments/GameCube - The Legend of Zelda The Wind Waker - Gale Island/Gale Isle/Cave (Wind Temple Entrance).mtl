@@ -1,0 +1,152 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 23.11.2010 15:02:09
+
+newmtl m0
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS09.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS09.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS09.png
+
+newmtl m1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS08.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS08.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS08.png
+
+newmtl m2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS07.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS07.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS07.png
+
+newmtl m3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS06.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS06.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS06.png
+
+newmtl m4
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS05.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS05.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS05.png
+
+newmtl m5
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS04.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS04.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS04.png
+
+newmtl m6
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS03.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS03.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS03.png
+
+newmtl m7
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS02.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS02.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS02.png
+
+newmtl m8
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS01.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS01.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS01.png
+
+newmtl m9
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS00.png
+	map_Kd C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS00.png
+	map_d C:\Users\Lexou\Documents\3D stuff\Gale Isle\CaveSS00.png
