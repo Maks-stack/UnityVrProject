@@ -7,7 +7,6 @@ public class ControllerMovement : MonoBehaviour {
 	private float m_horizontalInput;
 	private float m_verticalInput;
 
-	// Update is called once per frame
 	void Update () {
 		Move();
 	}
@@ -17,12 +16,13 @@ public class ControllerMovement : MonoBehaviour {
 		m_horizontalInput = Input.GetAxis(InputManager.Instance.Get(InputManager.EInput.hLeft));
 		m_verticalInput = Input.GetAxis(InputManager.Instance.Get(InputManager.EInput.vLeft));
 
+		this.transform.Translate(m_horizontalInput * 14 ,0, m_verticalInput * 14);
 
-		this.transform.Translate(m_horizontalInput, 0, m_verticalInput);
-
+		print (this.transform.forward);
+	
 		if(InputManager.Instance.AButtonDown())
 		{				
-			this.transform.Translate(this.transform.forward*5);
+			//this.transform.Translate(this.transform.forward*5);
 		}
 	}
 }
